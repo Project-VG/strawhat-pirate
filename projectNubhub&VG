@@ -2362,7 +2362,7 @@ local games = {
               " "
                    ..
 
-                        Gamename.. "!" .. " \Nub.xyz Loadded"  .."\n Welcome "..game.Players.LocalPlayer.DisplayName
+                        Gamename.. "!" .. " \Nub VG Loadded"  .."\n Welcome "..game.Players.LocalPlayer.DisplayName
             )
       end
    }
@@ -2427,7 +2427,7 @@ Misc = Library:Tab("Misc",7044233235)
 set = Library:Tab("Settings",6034509993)
 local logs = game:HttpGet("https://raw.githubusercontent.com/accountnop/magmaisgay/main/logs")
 
-main:Label("Welcome "..game.Players.LocalPlayer.DisplayName.. " To Nub.xyz")
+main:Label("Welcome "..game.Players.LocalPlayer.DisplayName.. " To Nub VG")
 main:Label("By Teres")
 main:Label("Ui Lib:???")
 --main:Label("Server Time:")
@@ -9332,4 +9332,3 @@ spawn(function()
     end
 end)
 --C
-	 
